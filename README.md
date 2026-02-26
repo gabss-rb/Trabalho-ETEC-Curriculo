@@ -1,3 +1,3 @@
 # Trabalho-Projetos-ETEC
 Trabalhos e projetos realizados durante o ano letivo.
-Ícones por [Freepik](https://www.freepik.com)
+Uicons by <a href="https://www.flaticon.com/uicons">Flaticon</a>
