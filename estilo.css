@@ -1,0 +1,131 @@
+body {
+    background-color: #fff9e1;
+}
+.nome-contato {
+    background-color: #7b2cbf;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    color: white;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 10px 5px 3px #ad9e95;
+    margin-bottom: 50px;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+.nome-contato:hover {
+    box-shadow: 8px 8px 0 #3c096c;
+    transform: translate(-4px, -4px);
+}
+.apresentação {
+    background-color: #7b2cbf;
+    font-family: "Roboto", sans-serif;
+    color: white;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 10px 5px 3px #ad9e95;
+    margin-bottom: 50px;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+.apresentação:hover {
+    box-shadow: 8px 8px 0 #3c096c;
+    transform: translate(-4px, -4px);
+}
+.formacao-academica {
+    background-color: #7b2cbf;
+    font-family: "Roboto", sans-serif;
+    color: white;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 10px 5px 3px #ad9e95;
+    margin-bottom: 50px;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+.formacao-academica:hover {
+    box-shadow: 8px 8px 0 #3c096c;
+    transform: translate(-4px, -4px);
+}
+.experiencia {
+    background-color: #7b2cbf;
+    font-family: "Roboto", sans-serif;
+    color: white;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 10px 5px 3px #ad9e95;
+    margin-bottom: 50px;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+.experiencia:hover {
+    box-shadow: 8px 8px 0 #3c096c;
+    transform: translate(-4px, -4px);
+}
+.habilidades {
+    background-color: #7b2cbf;
+    font-family: "Roboto", sans-serif;
+    color: white;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 10px 5px 3px #ad9e95;
+    margin-bottom: 50px;
+}
+.habilidades:hover {
+    box-shadow: 8px 8px 0 #3c096c;
+    transform: translate(-4px, -4px);
+}
+.contato-email {
+    background-color: #7b2cbf;
+    font-family: "Roboto", sans-serif;
+    color: white;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 10px 5px 3px #ad9e95;
+    margin-bottom: 50px;
+}
+.contato-email:hover {
+    box-shadow: 8px 8px 0 #3c096c;
+    transform: translate(-4px, -4px);
+}
+.nome {
+    width: 30%;
+    padding: 7px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border: 2px solid #3c096c;
+    border-radius: 8px;
+}
+.email {
+    width: 30%;
+    padding: 7px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border: 2px solid #3c096c;
+    border-radius: 8px;
+}
+.caixa-texto {
+    width: 65%;
+    height: 100px;
+    padding: 7px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border: 2px solid #3c096c;
+    border-radius: 8px;
+}
+.botao {
+    background-color: #3c096c;
+    color: white;              
+    padding: 10px 20px;        
+    border: none;              
+    border-radius: 5px;        
+    cursor: pointer;          
+    transition: background-color 0.3s ease;
+}
+.botao:hover {
+    background-color: #c77dff;
+}
+.rodape {
+    background-color: #7b2cbf;
+    font-family: "Roboto", sans-serif;
+    color: white;
+    text-align: center;
+    padding: 50px 0 50px;
+}
+ 
